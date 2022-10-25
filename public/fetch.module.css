@@ -1,0 +1,33 @@
+body{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+.tag{
+    font-size: 3rem;
+    text-align: center;
+    background: pink;
+    padding: 2rem;
+    color: white;
+}
+.card{
+    background-color: rgb(150, 86, 190);
+    color:white;
+    width: 24%;
+    height: 1%; 
+    padding: 5px 0px;
+    margin: 15px 5px;
+    display: inline-block;
+}
+.userId{
+    margin-left: 5px;
+}
+.title{
+    margin-left: 5px;
+    display: inline;
+}
+.body{
+    margin-left: 5px;
+    
+}
